@@ -1,0 +1,456 @@
+﻿[
+{
+"id":1,
+"shopName":"明哲家韩国料理",
+"saleNum":996,
+"offerPrice":100,
+"distributionCost":5,
+"welfare":"进店可获得一个肥牛纪念品",
+"time":"配送约2-5小时",
+"shopPic":"http://192.168.1.111:8080/order/img/shop/shop1.png",
+"shopNotice":"公告：下单后2-5小时送达！请耐心等候",
+"foodList":[
+	{ 
+	"foodId":"1",
+	"foodName":"切片肥牛",
+	"taste":"肥牛，肉片，肉多",
+	"saleNum":"50",
+	"price":198,
+	"count":0,
+	"foodPic":"http://192.168.1.111:8080/order/img/food/food1.png"
+	},
+	{
+	"foodId":"2",
+	"foodName":"招牌肥牛",
+	"taste":"金字招牌、回头客",
+	"saleNum":"100",
+	"price":148,
+	"count":0,
+	"foodPic":"http://192.168.1.111:8080/order/img/food/food2.png"
+	},
+	{
+	"foodId":"3",
+	"foodName":"肥牛3号",
+	"taste":"好吃不贵、上瘾",
+	"saleNum":"80",
+	"price":90,
+	"count":0,
+	"foodPic":"http://192.168.1.111:8080/order/img/food/food3.png"
+	},
+	{
+	"foodId":"4",
+	"foodName":"圆形牛肉",
+	"taste":"新品上市、欢迎品尝",
+	"saleNum":"80",
+	"price":90,
+	"count":0,
+	"foodPic":"http://192.168.1.111:8080/order/img/food/food4.png"
+	}
+	]
+},
+{
+"id":2,
+"shopName":"学长家的汉堡",
+"saleNum":11,
+"offerPrice":20,
+"distributionCost":7,
+"welfare":"进店即可送一个鸡腿",
+"time":"配送约40分钟",
+"shopPic":"http://192.168.1.111:8080/order/img/shop/shop2.png",
+"shopNotice":"公告：本店周一到周五所有套餐打八折，送咖啡。",
+"foodList":[
+	{ 
+	"foodId":"1",
+	"foodName":"双人汉堡套餐",
+	"taste":"徐州汉堡热销第一",
+	"saleNum":"50",
+	"price":575,
+	"count":0,
+	"foodPic":"http://192.168.1.111:8080/order/img/food/food21.png"
+	},
+	{
+	"foodId":"2",
+	"foodName":"香辣鸡腿堡",
+	"taste":"点了分量很大",
+	"saleNum":"79",
+	"price":49,
+	"count":0,
+	"foodPic":"http://192.168.1.111:8080/order/img/food/food22.png"
+	},
+	{
+	"foodId":"3",
+	"foodName":"浪漫情侣套餐",
+	"taste":"很好吃、老婆说下次还来",
+	"saleNum":"47",
+	"price":368,
+	"count":0,
+	"foodPic":"http://192.168.1.111:8080/order/img/food/food23.png"
+	}
+	]
+},
+{
+"id":3,
+"shopName":"老成都火锅冒菜",
+"saleNum":10,
+"offerPrice":15,
+"distributionCost":5,
+"welfare":"下单即可获得一个￥5优惠券",
+"time":"配送约20分钟",
+"shopPic":"http://192.168.1.111:8080/order/img/shop/shop3.png",
+"shopNotice":"公告：狂欢尽兴 必胜有礼 5折开抢。",
+"foodList":[
+	{ 
+	"foodId":"1",
+	"foodName":"超好吃的火锅+热狗",
+	"taste":"4.7折、限时抢购",
+	"saleNum":"50",
+	"price":99,
+	"count":0,
+	"foodPic":"http://192.168.1.111:8080/order/img/food/food31.png"
+	},
+	{
+	"foodId":"2",
+	"foodName":"女神最爱吃的冒菜",
+	"taste":"宽粉、鸭腿、玉米",
+	"saleNum":"140",
+	"price":49,
+	"count":0,
+	"foodPic":"http://192.168.1.111:8080/order/img/food/food32.png"
+	},
+	{
+	"foodId":"3",
+	"foodName":"【招牌推荐】单人豪华套餐",
+	"taste":"肥牛、藕、鱼丸",
+	"saleNum":"141",
+	"price":57,
+	"count":0,
+	"foodPic":"http://192.168.1.111:8080/order/img/food/food33.png"
+	}
+	]
+},
+{
+"id":4,
+"shopName":"高黎先生的手工炸鸡",
+"saleNum":496,
+"offerPrice":20,
+"distributionCost":13,
+"welfare":"下单即可获得一个￥15优惠券",
+"time":"配送约42分钟",
+"shopPic":"http://192.168.1.111:8080/order/img/shop/shop4.png",
+"shopNotice":"公告：本店赠送爱心鸡腿。",
+"foodList":[
+	{ 
+	"foodId":"1",
+	"foodName":"单人炸鸡套餐",
+	"taste":"原味、脆皮、香",
+	"saleNum":"102",
+	"price":18.8,
+	"count":0,
+	"foodPic":"http://192.168.1.111:8080/order/img/food/food41.png"
+	},
+	{
+	"foodId":"2",
+	"foodName":"无辣不欢滋味炸鸡套餐",
+	"taste":"鸡翅根五块、辛辣、香甜",
+	"saleNum":"66",
+	"price":14.5,
+	"count":0,
+	"foodPic":"http://192.168.1.111:8080/order/img/food/food42.png"
+	},
+	{
+	"foodId":"3",
+	"foodName":"叫花鸡",
+	"taste":"金字招牌、好吃不贵",
+	"saleNum":"59",
+	"price":14,
+	"count":0,
+	"foodPic":"http://192.168.1.111:8080/order/img/food/food43.png"
+	},
+	{
+	"foodId":"4",
+	"foodName":"蜂蜜芥末炸鸡套餐",
+	"taste":"嗝、这家炸鸡很不错！",
+	"saleNum":"59",
+	"price":14,
+	"count":0,
+	"foodPic":"http://192.168.1.111:8080/order/img/food/food44.png"
+	}
+	]
+},
+{
+"id":5,
+"shopName":"大叔烧烤",
+"saleNum":300,
+"offerPrice":30,
+"distributionCost":10,
+"welfare":"下单即可获得一个￥30优惠券",
+"time":"配送约30分钟",
+"shopPic":"http://192.168.1.111:8080/order/img/shop/shop5.png",
+"shopNotice":"公告：本店啤酒免费",
+"foodList":[
+	{ 
+	"foodId":"1",
+	"foodName":"望京小腰杂",
+	"taste":"味道不错，豪华晚饭",
+	"saleNum":"102",
+	"price":109,
+	"count":0,
+	"foodPic":"http://192.168.1.111:8080/order/img/food/food51.png"
+	},
+	{
+	"foodId":"2",
+	"foodName":"网红烤串",
+	"taste":"香辣、孜然、绝味",
+	"saleNum":"100",
+	"price":139,
+	"count":0,
+	"foodPic":"http://192.168.1.111:8080/order/img/food/food52.png"
+	},
+	{
+	"foodId":"3",
+	"foodName":"豪华鱿鱼串",
+	"taste":"绝绝子、吃了还想吃",
+	"saleNum":"70",
+	"price":69,
+	"count":0,
+	"foodPic":"http://192.168.1.111:8080/order/img/food/food53.png"
+	},
+	{
+	"foodId":"4",
+	"foodName":"澳洲肉串",
+	"taste":"进口牛肉、豪华套餐",
+	"saleNum":"70",
+	"price":69,
+	"count":0,
+	"foodPic":"http://192.168.1.111:8080/order/img/food/food54.png"
+	}
+	]
+},
+{
+	"id":6,
+	"shopName":"明哲家韩国料理",
+	"saleNum":996,
+	"offerPrice":100,
+	"distributionCost":5,
+	"welfare":"进店可获得一个肥牛纪念品",
+	"time":"配送约2-5小时",
+	"shopPic":"http://192.168.1.111:8080/order/img/shop/shop1.png",
+	"shopNotice":"公告：下单后2-5小时送达！请耐心等候",
+	"foodList":[
+		{ 
+		"foodId":"1",
+		"foodName":"切片肥牛",
+		"taste":"肥牛，肉片，肉多",
+		"saleNum":"50",
+		"price":198,
+		"count":0,
+		"foodPic":"http://192.168.1.111:8080/order/img/food/food1.png"
+		},
+		{
+		"foodId":"2",
+		"foodName":"招牌肥牛",
+		"taste":"金字招牌、回头客",
+		"saleNum":"100",
+		"price":148,
+		"count":0,
+		"foodPic":"http://192.168.1.111:8080/order/img/food/food2.png"
+		},
+		{
+		"foodId":"3",
+		"foodName":"肥牛3号",
+		"taste":"好吃不贵、上瘾",
+		"saleNum":"80",
+		"price":90,
+		"count":0,
+		"foodPic":"http://192.168.1.111:8080/order/img/food/food3.png"
+		},
+		{
+		"foodId":"4",
+		"foodName":"圆形牛肉",
+		"taste":"新品上市、欢迎品尝",
+		"saleNum":"80",
+		"price":90,
+		"count":0,
+		"foodPic":"http://192.168.1.111:8080/order/img/food/food4.png"
+		}
+		]
+	},
+	{
+	"id":7,
+	"shopName":"学长家的汉堡",
+	"saleNum":11,
+	"offerPrice":20,
+	"distributionCost":7,
+	"welfare":"进店即可送一个鸡腿",
+	"time":"配送约40分钟",
+	"shopPic":"http://192.168.1.111:8080/order/img/shop/shop2.png",
+	"shopNotice":"公告：本店周一到周五所有套餐打八折，送咖啡。",
+	"foodList":[
+		{ 
+		"foodId":"1",
+		"foodName":"双人汉堡套餐",
+		"taste":"徐州汉堡热销第一",
+		"saleNum":"50",
+		"price":575,
+		"count":0,
+		"foodPic":"http://192.168.1.111:8080/order/img/food/food21.png"
+		},
+		{
+		"foodId":"2",
+		"foodName":"香辣鸡腿堡",
+		"taste":"点了分量很大",
+		"saleNum":"79",
+		"price":49,
+		"count":0,
+		"foodPic":"http://192.168.1.111:8080/order/img/food/food22.png"
+		},
+		{
+		"foodId":"3",
+		"foodName":"浪漫情侣套餐",
+		"taste":"很好吃、老婆说下次还来",
+		"saleNum":"47",
+		"price":368,
+		"count":0,
+		"foodPic":"http://192.168.1.111:8080/order/img/food/food23.png"
+		}
+		]
+	},
+	{
+	"id":8,
+	"shopName":"老成都火锅冒菜",
+	"saleNum":10,
+	"offerPrice":15,
+	"distributionCost":5,
+	"welfare":"下单即可获得一个￥5优惠券",
+	"time":"配送约20分钟",
+	"shopPic":"http://192.168.1.111:8080/order/img/shop/shop3.png",
+	"shopNotice":"公告：狂欢尽兴 必胜有礼 5折开抢。",
+	"foodList":[
+		{ 
+		"foodId":"1",
+		"foodName":"超好吃的火锅+热狗",
+		"taste":"4.7折、限时抢购",
+		"saleNum":"50",
+		"price":99,
+		"count":0,
+		"foodPic":"http://192.168.1.111:8080/order/img/food/food31.png"
+		},
+		{
+		"foodId":"2",
+		"foodName":"女神最爱吃的冒菜",
+		"taste":"宽粉、鸭腿、玉米",
+		"saleNum":"140",
+		"price":49,
+		"count":0,
+		"foodPic":"http://192.168.1.111:8080/order/img/food/food32.png"
+		},
+		{
+		"foodId":"3",
+		"foodName":"【招牌推荐】单人豪华套餐",
+		"taste":"肥牛、藕、鱼丸",
+		"saleNum":"141",
+		"price":57,
+		"count":0,
+		"foodPic":"http://192.168.1.111:8080/order/img/food/food33.png"
+		}
+		]
+	},
+	{
+	"id":9,
+	"shopName":"高黎先生的手工炸鸡",
+	"saleNum":496,
+	"offerPrice":20,
+	"distributionCost":13,
+	"welfare":"下单即可获得一个￥15优惠券",
+	"time":"配送约42分钟",
+	"shopPic":"http://192.168.1.111:8080/order/img/shop/shop4.png",
+	"shopNotice":"公告：本店赠送爱心鸡腿。",
+	"foodList":[
+		{ 
+		"foodId":"1",
+		"foodName":"单人炸鸡套餐",
+		"taste":"原味、脆皮、香",
+		"saleNum":"102",
+		"price":18.8,
+		"count":0,
+		"foodPic":"http://192.168.1.111:8080/order/img/food/food41.png"
+		},
+		{
+		"foodId":"2",
+		"foodName":"无辣不欢滋味炸鸡套餐",
+		"taste":"鸡翅根五块、辛辣、香甜",
+		"saleNum":"66",
+		"price":14.5,
+		"count":0,
+		"foodPic":"http://192.168.1.111:8080/order/img/food/food42.png"
+		},
+		{
+		"foodId":"3",
+		"foodName":"叫花鸡",
+		"taste":"金字招牌、好吃不贵",
+		"saleNum":"59",
+		"price":14,
+		"count":0,
+		"foodPic":"http://192.168.1.111:8080/order/img/food/food43.png"
+		},
+		{
+		"foodId":"4",
+		"foodName":"蜂蜜芥末炸鸡套餐",
+		"taste":"嗝、这家炸鸡很不错！",
+		"saleNum":"59",
+		"price":14,
+		"count":0,
+		"foodPic":"http://192.168.1.111:8080/order/img/food/food44.png"
+		}
+		]
+	},
+	{
+	"id":10,
+	"shopName":"大叔烧烤",
+	"saleNum":300,
+	"offerPrice":30,
+	"distributionCost":10,
+	"welfare":"下单即可获得一个￥30优惠券",
+	"time":"配送约30分钟",
+	"shopPic":"http://192.168.1.111:8080/order/img/shop/shop5.png",
+	"shopNotice":"公告：本店啤酒免费",
+	"foodList":[
+		{ 
+		"foodId":"1",
+		"foodName":"望京小腰杂",
+		"taste":"味道不错，豪华晚饭",
+		"saleNum":"102",
+		"price":109,
+		"count":0,
+		"foodPic":"http://192.168.1.111:8080/order/img/food/food51.png"
+		},
+		{
+		"foodId":"2",
+		"foodName":"网红烤串",
+		"taste":"香辣、孜然、绝味",
+		"saleNum":"100",
+		"price":139,
+		"count":0,
+		"foodPic":"http://192.168.1.111:8080/order/img/food/food52.png"
+		},
+		{
+		"foodId":"3",
+		"foodName":"豪华鱿鱼串",
+		"taste":"绝绝子、吃了还想吃",
+		"saleNum":"70",
+		"price":69,
+		"count":0,
+		"foodPic":"http://192.168.1.111:8080/order/img/food/food53.png"
+		},
+		{
+		"foodId":"4",
+		"foodName":"澳洲肉串",
+		"taste":"进口牛肉、豪华套餐",
+		"saleNum":"70",
+		"price":69,
+		"count":0,
+		"foodPic":"http://192.168.1.111:8080/order/img/food/food54.png"
+		}
+		]
+	}
+]
